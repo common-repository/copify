@@ -1,0 +1,8 @@
+{
+    "name": "copify/copify-wordpress",
+    "description": "Copify WordPress Plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "require": {}
+}
